@@ -4,4 +4,9 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    background: linear-gradient(to right, #1e1e1e, #000000);
+    color:#F57A1A;
+}
+.metamask-style {
+    filter: drop-shadow(30px 10px 15px #F57A1A);
 }
